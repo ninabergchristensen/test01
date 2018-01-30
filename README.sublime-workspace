@@ -1,0 +1,355 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"nina-christensen-grafisk-design",
+				"nina-christensen-grafisk-design_papernerd_branding_02"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"c",
+				"column-gap"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"nina-christensengrafisk",
+				"nina-christensen-grafisk-design_01"
+			],
+			[
+				"nina-christensen-gra",
+				"nina-christensen-grafisk-design_pastel-day-planner_layout_02"
+			],
+			[
+				"nina",
+				"nina-christensen-grafisk-design_spot-langeskov_branding_02"
+			],
+			[
+				"fle-",
+				"flex-wrap"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"al",
+				"align-self"
+			],
+			[
+				"flex",
+				"flex-grow"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"text-c",
+				"text-decoration"
+			],
+			[
+				"spa",
+				"space-between"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"column-",
+				"column-count"
+			],
+			[
+				"align",
+				"align-content"
+			],
+			[
+				"fle",
+				"flex-start"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"bx",
+				"box-sizing"
+			],
+			[
+				"backgro",
+				"background-size"
+			],
+			[
+				"box-",
+				"box-sizing"
+			],
+			[
+				"hegh",
+				"min-height"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"backgrou",
+				"background-attachment"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"w",
+				"wrap-reverse"
+			],
+			[
+				"list",
+				"list-style-position"
+			],
+			[
+				"u",
+				"unset"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"word",
+				"word-break"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"font-st",
+				"font-style"
+			],
+			[
+				"th",
+				"thead\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/nina/Pictures/MMD/ninachristensendk/index.html",
+		"/Users/nina/Pictures/MMD/ninachristensendk/surfacedesign.html",
+		"/Users/nina/Pictures/MMD/ninachristensendk/spotlangeskov.html",
+		"/Users/nina/Pictures/MMD/ninachristensendk/snobknitting.html",
+		"/Users/nina/Pictures/MMD/ninachristensendk/pasteldayplanner.html",
+		"/Users/nina/Pictures/MMD/ninachristensendk/papernerd.html",
+		"/Users/nina/Pictures/MMD/ninachristensendk/artdays.html",
+		"/Users/nina/Pictures/MMD/ninachristensendk/om.html",
+		"/Users/nina/Pictures/MMD/ninachristensendk/kontakt.html",
+		"/Users/nina/Pictures/MMD/ninachristensendk/styles.css",
+		"/Users/nina/Pictures/MMD/developer/testsite/test.html",
+		"/Users/nina/Pictures/MMD/developer/a/a.html",
+		"/Users/nina/Pictures/MMD/ninachristensendk/snob.html",
+		"/Users/nina/Pictures/MMD/ninachristensendk/society6.html",
+		"/Users/nina/Pictures/MMD/ninachristensendk/case_blank.html",
+		"/Users/nina/Pictures/MMD/ninachristensendk/styles2.css",
+		"/Users/nina/Pictures/MMD/ninachristensendk/index2.html",
+		"/Users/nina/Downloads/palette-2.scss",
+		"/Users/nina/Pictures/MMD/Interaktion/html5-2/index.html",
+		"/Users/nina/Pictures/MMD/Interaktion/html5/index.html",
+		"/Users/nina/Pictures/MMD/Interaktion/html5-2/styles.css",
+		"/Users/nina/Pictures/MMD/Interaktion/html5/styles.css",
+		"/Users/nina/Pictures/MMD/developer/testsite/test.css",
+		"/Users/nina/Downloads/palette.scss",
+		"/Users/nina/Pictures/MMD/Workshops/css-animation/styles.css",
+		"/Users/nina/Pictures/MMD/Workshops/css-animation/index.html",
+		"/Users/nina/Pictures/MMD/developer/basics/animation.html",
+		"/Users/nina/Pictures/MMD/developer/a/kasser1.html",
+		"/Users/nina/Pictures/MMD/developer/a/kasser2.html",
+		"/Users/nina/Pictures/MMD/developer/basics/tables.html",
+		"/Users/nina/Pictures/MMD/developer/basics/tables2.html",
+		"/Users/nina/Pictures/MMD/developer/basics/forms.html",
+		"/Users/nina/Pictures/MMD/developer/testsite/test4.html",
+		"/Users/nina/Pictures/MMD/developer/testsite/test3.html",
+		"/Users/nina/Pictures/MMD/developer/testsite/test2.html"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
